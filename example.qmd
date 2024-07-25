@@ -1,0 +1,12 @@
+---
+title: "Cuarto Example"
+filters:
+  - cuarto
+---
+
+## Heading
+
+```{cuarto}
+  This filter adds formatting to heading text.
+```
+
